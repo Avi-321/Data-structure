@@ -1,0 +1,17 @@
+# Account-Storage
+A basic GUI that allows you to store your emails, password and account information.
+It also encrypte the stored account informations in file.
+You can create,store and delete account information.
+It uses tkinter for graphical interface.
+There are messageboxes used for entry success and failure.
+We can see its encrypted readfile.
+
+This sample shows how to manage your storage account using the Storage Management package for Python. 
+The Storage Resource Provider is a client library for working with the storage accounts in your Azure subscription.
+ Using the client library, you can create a new storage account, read its properties, list all storage accounts in a given
+ subscription or resource group, read and regenerate the storage account keys, and delete a storage account.
+
+
+done by roll no.
+118220049(abhishek sha)
+11822005(abhishek chaudhary)
